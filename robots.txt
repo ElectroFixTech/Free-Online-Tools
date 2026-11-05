@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electrofixtech.github.io/Free-Online-Tools/sitemap.xml
